@@ -1,0 +1,27 @@
+h1{
+    color: #cc00ff;
+
+}
+h2{
+    color: #cc00ff;
+} 
+.p1 {
+    opacity: 50%;
+}
+p{
+    padding: 0px;
+    color: #229296;
+}
+.p2{
+    opacity: 50%;
+}
+div{
+    background-color: #cc00ff;
+}
+ul{
+    list-style-position: inside;
+    color: #229296;;
+}
+body{
+    background-image:url(ads.jpg);
+}
